@@ -1,7 +1,7 @@
 # Lojinha API Automação
 Esse é um repositório que contém a automação de alguns teste de API Rest de um software denominado Lojinha. os sub-tópicos abaixo descrevem algumas decisões tomadas na estruturação do projeto.
 
-## Tecnologias Utlizadas
+## Tecnologias Utilizadas
 . Java
 oracle.com/java/technologies/javase/jdk18-archive-downloads.html
 . JUnit
